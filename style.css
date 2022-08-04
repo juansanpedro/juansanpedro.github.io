@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  .header{
+     background: linear-gradient(#FFE700,black)
+}
+.logo,.nav,.nav_lis li{
+    display: inline-block;
+    margin: 5px;
+}
+
+.nav{
+    position: absolute;
+    right: 0;  
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+main{
+    height: 650px;
+    background-color: black;
+    color: #beae23;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.footer{
+    padding: 5px;
+    text-align: center;
+    background-color: #958b2b;
+}
+
+.rede li a{
+    color: #beae23;
+}
+
+
